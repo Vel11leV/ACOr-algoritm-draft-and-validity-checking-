@@ -1,5 +1,7 @@
 # ACOr-algorithm-validity-checking
 
+Ant colony based algorithm for continuous domain.
+
 It is a kind of metaheuristic algorithm, that are used for global optimization (synthesis) problem.
 This program was created to test the algorithm validity and compare
 with other metaheuristic algorithm (genetic alg., particle swarm optimization algorithm).
