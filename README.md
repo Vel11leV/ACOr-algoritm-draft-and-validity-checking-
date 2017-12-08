@@ -1,5 +1,4 @@
-# ACOr-algoritm-draft-and-validity-checking-
-ACOr class (draft variant), inut function for optiizaton is set as an input parametre of the constructor: is float (*testFunction) ( int , float *)
+# ACOr-algoritm-validity-checking
 
 It a kind of metaheuristic algorithm, that are used for global optimithation (synthesis) problem.
 This prigram was created to test the algorithm validity and compare
