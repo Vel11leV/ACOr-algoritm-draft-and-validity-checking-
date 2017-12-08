@@ -1,6 +1,6 @@
-# ACOr-algoritm-validity-checking
+# ACOr-algorithm-validity-checking
 
-It a kind of metaheuristic algorithm, that are used for global optimization (synthesis) problem.
+It is a kind of metaheuristic algorithm, that are used for global optimization (synthesis) problem.
 This program was created to test the algorithm validity and compare
 with other metaheuristic algorithm (genetic alg., particle swarm optimization algorithm).
 The program has primitive console interface for testing only.
